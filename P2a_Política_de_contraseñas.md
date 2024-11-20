@@ -40,7 +40,7 @@ Estableceremos los diferentes tipos de politica de contraseñas:
     + Contiene al menos una mayuscula: Si
     + Contien un caracter especial: Si
 
-#### Configuración del archvio `/etc/pwquality.conf`
+#### Configuración del archvio `/etc/security/pwquality.conf`
 
 Debil:
 ```bash
