@@ -62,6 +62,8 @@ Fuerte:
  ocredit = -1
 ```
 
+Para comprobar que la configuración funciona usaremos el comando `pwscore`
+
 |   | Score | Longitud minima | Requisitos | Ejemplos |
 |:-:|:-----:|:---------------:|:----------:|:--------:|
 | no valida| <40| -| Ninguno| jsyw27 sda2na carthe|
